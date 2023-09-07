@@ -1,0 +1,10 @@
+<< <% tp.user.generateDiaryFileTitle(tp.file.title) %> >>
+
+## <% tp.user.generateDiaryFileName(tp.file.title) %>
+
+---
+
+## TODO TASK LIST
+
+<% tp.file.cursor(1) %>
+

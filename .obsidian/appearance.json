@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "translucency": true,
+  "baseFontSize": 17,
+  "cssTheme": "Spectrum",
+  "textFontFamily": "霞鹜文楷",
+  "interfaceFontFamily": "霞鹜文楷",
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Fira Code",
+  "accentColor": ""
+}

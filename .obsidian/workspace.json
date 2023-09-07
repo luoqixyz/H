@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "b0e503d1826a2480",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c7238cb642caaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b83c2388c14aef6a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataView/ISSUE/DOING.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fe07f2c85e512f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/36-2023-09-5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb714c028a37847e",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e97697ffe5e42e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f37c09b61aab21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cf029eadbb8711e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "c76c2d036840495b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec324ab6845231ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4242799ea23b54e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a43730cd56c43d2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c638a65ae6876ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DataView/ISSUE/DOING.md"
+              }
+            }
+          },
+          {
+            "id": "85d9bbabdc07730e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a676a6c00ed1fd27",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "02eb8ed0764fbca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DataView/ISSUE/DOING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "baa7510b70672271",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DataView/ISSUE/DOING.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b4304bafad2106d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b83c2388c14aef6a",
+  "lastOpenFiles": [
+    "Inbox/36-2023-09-5.md",
+    "Inbox/天康服务器.md",
+    "Inbox/伟嘉服务器.md",
+    "DataView/ISSUE/DOING.md",
+    "Inbox/36-2023-09-05.md",
+    "Inbox/ISSUE-20230904130902.md",
+    "Inbox/2023-08-28.md",
+    "Inbox/36-2023-09-04.md",
+    "File/Template/Template/Diary - Template.md",
+    "File/Template/Template/Diary - Week - Template.md",
+    "File/Template/Template/Templace - Common.md",
+    "File/Template/Template/Template - TODO.md",
+    "DataView/ISSUE/TODO.md",
+    "Inbox/ISSUE-20230810190886.md",
+    "Inbox/ISSUE-20230803130867.md",
+    "Inbox/tood.md",
+    "Inbox/ISSUE-20230904100983.md",
+    "Inbox/ISSUE-20230824120822.md",
+    "Inbox/ISSUE-20230824130809.md",
+    "Inbox/ISSUE-20230824130858.md",
+    "Inbox/ISSUE-20230825120853.md",
+    "Inbox/ISSUE-20230830100885.md",
+    "Inbox/Meeting-20230726112226.md",
+    "Inbox/Meeting-20230727104008.md",
+    "Inbox/Meeting-20230824160845.md",
+    "Inbox/Meeting-20230802111103.md",
+    "Annex/1.jpg",
+    "Annex/{46YI(IGI[S]CU}EA80`RI7.jpg",
+    "Annex/`O`F_NAX83DMR@O0%(YR`$G 1.jpg",
+    "Annex/`O`F_NAX83DMR@O0%(YR`$G.jpg",
+    "Annex/UH]_(AO{2M4_PBZ00LKZBVN.jpg",
+    "Annex/Pasted image 20230824131404.png",
+    "Annex/P7]9S7`]%DHO2K3%A`9M9LN.jpg",
+    "Annex/4XEUBKZ3IWGE~A9ST5ME{TQ.png",
+    "Annex",
+    "DataView/MEETING",
+    "DataView/ISSUE",
+    "File/Template/Template",
+    "Knowledge/Movie",
+    "Knowledge/Movie/Sentence"
+  ]
+}

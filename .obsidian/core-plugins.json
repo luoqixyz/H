@@ -1,0 +1,23 @@
+[
+  "file-explorer",
+  "global-search",
+  "switcher",
+  "graph",
+  "backlink",
+  "outgoing-link",
+  "tag-pane",
+  "properties",
+  "page-preview",
+  "command-palette",
+  "slash-command",
+  "editor-status",
+  "bookmarks",
+  "markdown-importer",
+  "zk-prefixer",
+  "random-note",
+  "outline",
+  "word-count",
+  "slides",
+  "workspaces",
+  "file-recovery"
+]

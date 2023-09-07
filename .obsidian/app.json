@@ -1,0 +1,28 @@
+{
+  "legacyEditor": false,
+  "showLineNumber": true,
+  "autoPairBrackets": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Annex",
+  "rightToLeft": false,
+  "spellcheckLanguages": null,
+  "fileSortOrder": "alphabeticalReverse",
+  "communityPluginSortOrder": "alphabetical",
+  "vimMode": false,
+  "showFrontmatter": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "newFileFolderPath": "Inbox",
+  "userIgnoreFilters": [
+    "File/Template/"
+  ]
+}
